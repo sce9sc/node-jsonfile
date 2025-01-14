@@ -19,9 +19,6 @@
   "dependencies": {
     "universalify": "^2.0.0"
   },
-  "optionalDependencies": {
-    "graceful-fs": "^4.1.6"
-  },
   "devDependencies": {
     "mocha": "^8.2.0",
     "rimraf": "^2.4.0",
